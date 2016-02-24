@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CDI - RoboGuice</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="text_nome">nome</string>
+    <string name="text_idade">idade</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="btn_verificar">verificar idade</string>
+    <string name="text_result">resultado</string>
+</resources>

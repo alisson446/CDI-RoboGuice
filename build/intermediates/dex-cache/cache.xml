@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/desenvolvimento-02/.gradle/caches/modules-2/files-2.1/org.roboguice/roboguice/3.0.1/24e814f35d5cc28eaa7e9f07a50ea69deeb2b544/roboguice-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="24e814f35d5cc28eaa7e9f07a50ea69deeb2b544">
+        <dex dex="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/pre-dexed/debug/roboguice-3.0.1-fb62298cac0298777f7f7d27600c90aa5732a87e.jar" />
+    </item>
+    <item
+        jar="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/pre-dexed/debug/classes-231b021c9952e55c57bf35972e053be6bfc78e35.jar" />
+    </item>
+    <item
+        jar="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/pre-dexed/debug/classes-08d00a94a3cdfac48535d48c55672560954adc53.jar" />
+    </item>
+    <item
+        jar="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-3c0bdbba93eb0d4b135927397d104457cd6c8774.jar" />
+    </item>
+    <item
+        jar="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/pre-dexed/debug/classes-bec082e5de5ac07efc559cb1f8cc88c96ff79ff8.jar" />
+    </item>
+    <item
+        jar="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/pre-dexed/debug/classes-f72a980f1827e69b8e58f5fb630362442eb396e0.jar" />
+    </item>
+    <item
+        jar="/home/desenvolvimento-02/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/desenvolvimento-02/AndroidStudioProjects/CDI-RoboGuice/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-ab508c1c9db2b7114f4ec36962bad439001ae408.jar" />
+    </item>
+
+</items>
